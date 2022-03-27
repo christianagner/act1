@@ -1,0 +1,24 @@
+.example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+}
+  
+.example-full-width {
+    width: 100%;
+}
+  
+td {
+    padding-right: 8px;
+}
+
+#rcorners1 {
+    margin-top: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    background: #EDE9E8;
+    padding: 20px; 
+    width: 700px;
+    height: 350px;  
+}
